@@ -1,3 +1,4 @@
 # Oystercard_priv
 
-Self learning while Sky/BT fix my broadband..
+Self learning to understand correct TDD approach to class extraction with
+dependency injection.
